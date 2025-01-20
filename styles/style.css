@@ -117,6 +117,7 @@ ul {
     gap: 0;
   }
   .responsive-menu {
+    overflow-y: hidden;
     display: block;
   }
   .responsive-menu > i {
