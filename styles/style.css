@@ -99,6 +99,7 @@ ul {
   }
   body {
     max-width: 390px;
+    margin: 0 auto;
   }
   .navbar {
     align-items: center;
@@ -120,5 +121,6 @@ ul {
   }
   .responsive-menu > i {
     font-size: 1.875rem;
+    overflow-x: hidden;
   }
 }
