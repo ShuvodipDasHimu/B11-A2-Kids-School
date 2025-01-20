@@ -97,7 +97,8 @@ ul {
   .navbar {
     align-items: center;
     justify-content:space-between;
-    width: 390px;
+    width: 360px;
+    padding: 0;
     /* padding: 20px; */
     margin: 0 auto;
   }
