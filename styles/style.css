@@ -97,7 +97,7 @@ ul {
   * {
     overflow-x: hidden;
   }
-  .header {
+  body {
     max-width: 390px;
   }
   .navbar {
