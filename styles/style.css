@@ -121,6 +121,6 @@ ul {
   }
   .responsive-menu > i {
     font-size: 1.875rem;
-    overflow-x: hidden;
+    overflow-y: hidden;
   }
 }
