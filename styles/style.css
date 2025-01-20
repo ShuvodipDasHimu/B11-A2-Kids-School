@@ -94,11 +94,18 @@ ul {
 
 /* Responsive Styles for Mobile */
 @media screen and (max-width:576px) {
+  * {
+    overflow-x: hidden;
+  }
+  .header {
+    max-width: 390px;
+  }
   .navbar {
     align-items: center;
     justify-content:space-between;
-    width: 360px;
+    /* width: 360px; */
     padding: 0;
+    width: 80%;
     /* padding: 20px; */
     margin: 0 auto;
   }
