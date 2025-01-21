@@ -313,11 +313,11 @@ main {
  .card {
   flex-direction: column;
   height: 100%;
-  margin-left: 10px;
-  margin-right: 10px;
+  /* margin-left: 10px; */
+  /* margin-right: 10px; */
   /* height: 322px; */
   /* width: 100%; */
-  width: 357px;
+  width: 346px;
   gap: 22px;
   padding: 36px 28px;
  }
