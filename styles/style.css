@@ -563,6 +563,7 @@ main {
 
 .stories {
   margin-top: 10px;
+  padding-bottom: 40px;
 }
 
 .stories-title {
@@ -590,6 +591,7 @@ main {
 .grid-card-others h1 {
   font-size: 0.571rem;
   width: 160px;
+  margin-top: -10px;
 }
 
 .grid-card-others img {
@@ -609,9 +611,15 @@ main {
   display: none;
 }
 
+.stories-grid-inner {
+}
+
 .stories-grid-inner .stories-grid-card {
   width: 173px;
   height: 175px;
+}
+.stories-view-btn {
+  margin-top: 20px;
 }
 
 .footer {
