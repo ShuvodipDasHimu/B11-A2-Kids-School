@@ -597,6 +597,7 @@ main {
   font-size: 0.571rem;
   width: 160px;
   margin-top: -10px;
+  padding-left: 20px;
 }
 
 .grid-card-others img {
@@ -605,6 +606,12 @@ main {
 
 .story-others-btn button {
   font-size: 0.571rem;
+}
+
+.story-others-btn {
+  position: relative;
+  bottom: 23px;
+  left: 16px;
 }
 
 
@@ -620,7 +627,7 @@ main {
 }
 
 .stories-grid-inner .stories-grid-card {
-  width: 173px;
+  width: 163px;
   height: 175px;
 }
 .stories-view-btn {
